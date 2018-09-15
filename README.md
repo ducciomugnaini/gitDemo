@@ -1,4 +1,4 @@
 # gitDemo
 Progetto di prova
 
-Ciao Gigiwefwef
+Ciao Gigi Locale + Server
